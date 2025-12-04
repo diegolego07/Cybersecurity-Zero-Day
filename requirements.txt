@@ -1,0 +1,11 @@
+cryptography
+pyCryptodome
+requests
+pwm
+numpy
+gmpy2
+beautifulsoup4
+sherlock
+mtp
+flask
+sympy
