@@ -1,0 +1,12 @@
+Lezioni:
+    - Lezione 0:  `Zero-Day`    ✅
+    - Lezione 1:  `Bootstrap`
+    - Lezione 2:  `ToolBox`
+    - Lezione 3:  `Shell`
+    - Lezione 4:  `Python`
+    - Lezione 5:  `CheckPoint`
+    - Lezione 6:  `Web`
+    - Lezione 7:  `Deep Web`
+    - Lezione 8:  `Network`
+    - Lezione 9:  `Crypto`
+    - Lezione 10: `shutdown -r`  
